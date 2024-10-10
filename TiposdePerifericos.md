@@ -33,10 +33,11 @@ Estos dispositivos se encargan de mostrar o reproducir la información procesada
 - **Auriculares**: Permiten una experiencia auditiva privada y de alta calidad, con opciones de cancelación de ruido activa.
 
 
- -3. Periféricos de Almacenamiento
-Los periféricos de almacenamiento permiten guardar y recuperar datos. Algunos ejemplos comunes son:
+ ### 3. Periféricos de Almacenamiento
 
-- **Disco Duro Externo**: Almacena grandes cantidades de información.
-- **Memoria USB**: Dispositivo portátil para transferir y almacenar archivos.
-- **Tarjetas SD**: Comúnmente utilizadas en cámaras y dispositivos móviles.
-- **CD/DVD**: Soportes ópticos para almacenar datos.
+Estos dispositivos permiten guardar y recuperar datos de manera temporal o permanente:
+
+- **Disco Duro Externo**: Ofrecen alta capacidad de almacenamiento para copias de seguridad y grandes volúmenes de datos.
+- **Memoria USB**: Pequeños dispositivos portátiles utilizados para la transferencia rápida de archivos.
+- **Tarjetas SD**: Usadas principalmente en cámaras y dispositivos móviles para expandir el almacenamiento.
+- **CD/DVD/Blu-ray**: Formatos de almacenamiento óptico que, aunque en desuso, aún son relevantes para ciertos tipos de backup.
