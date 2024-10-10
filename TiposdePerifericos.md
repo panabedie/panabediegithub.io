@@ -1,6 +1,7 @@
 ---
 title: Tipos de Periféricos
 layout: home
+nav-order: 2
 ---
 
 -1. Periféricos de Entrada
