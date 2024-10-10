@@ -22,15 +22,16 @@ Los periféricos de entrada permiten al usuario enviar datos e información al s
 
 
 
+### 2. Periféricos de Salida
+
 Estos dispositivos se encargan de mostrar o reproducir la información procesada por la computadora. Los periféricos de salida más utilizados son:
 
--2. Periféricos de Salida
-Estos dispositivos muestran o reproducen la información procesada por la computadora. Ejemplos de periféricos de salida son:
+- **Monitor**: Dispositivo de visualización que varía en tamaño y resolución. Los monitores modernos soportan resoluciones como Full HD, 4K e incluso 8K.
+- **Impresora**: Existen impresoras de inyección de tinta, láser y multifuncionales que combinan funciones de escaneo y fotocopiado.
+- **Proyector**: Proyecta imágenes en una pantalla grande, ideal para presentaciones y entretenimiento.
+- **Altavoces**: Reproducen sonido con distintos niveles de calidad, desde altavoces estéreo básicos hasta sistemas envolventes.
+- **Auriculares**: Permiten una experiencia auditiva privada y de alta calidad, con opciones de cancelación de ruido activa.
 
-- **Monitor**: Muestra información visual y gráficos.
-- **Impresora**: Produce copias físicas de documentos digitales.
-- **Altavoces**: Reproducen sonido, música y efectos de audio.
-- **Proyector**: Muestra contenido en una pantalla grande o pared.
 
  -3. Periféricos de Almacenamiento
 Los periféricos de almacenamiento permiten guardar y recuperar datos. Algunos ejemplos comunes son:
