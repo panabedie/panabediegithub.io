@@ -1,5 +1,8 @@
 
-## Tipos de Periféricos
+---
+title: Tipos de Periféricos
+layout: home
+---
 
 ### 1. Periféricos de Entrada
 Los periféricos de entrada permiten al usuario introducir datos o comandos a la computadora. Algunos ejemplos incluyen:
