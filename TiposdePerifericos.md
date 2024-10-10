@@ -3,7 +3,7 @@ title: Tipos de Periféricos
 layout: home
 nav_order: 2
 ---
-
+Estos dispositivos se encargan de mostrar o reproducir la información procesada por la computadora. Los periféricos de salida más utilizados son:
 -1. Periféricos de Entrada
 Los periféricos de entrada permiten al usuario introducir datos o comandos a la computadora. Algunos ejemplos incluyen:
 
