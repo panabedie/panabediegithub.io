@@ -32,8 +32,7 @@ Estos dispositivos se encargan de mostrar o reproducir la información procesada
 - **Altavoces**: Reproducen sonido con distintos niveles de calidad, desde altavoces estéreo básicos hasta sistemas envolventes.
 - **Auriculares**: Permiten una experiencia auditiva privada y de alta calidad, con opciones de cancelación de ruido activa.
 
-
- ### 3. Periféricos de Almacenamiento
+### 3. Periféricos de Almacenamiento
 
 Estos dispositivos permiten guardar y recuperar datos de manera temporal o permanente:
 
