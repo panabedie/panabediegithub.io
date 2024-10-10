@@ -1,3 +1,4 @@
+
 ## Tipos de Periféricos
 
 ### 1. Periféricos de Entrada
