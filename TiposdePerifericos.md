@@ -18,3 +18,11 @@ Estos dispositivos muestran o reproducen la información procesada por la comput
 - **Impresora**: Produce copias físicas de documentos digitales.
 - **Altavoces**: Reproducen sonido, música y efectos de audio.
 - **Proyector**: Muestra contenido en una pantalla grande o pared.
+
+ -3. Periféricos de Almacenamiento
+Los periféricos de almacenamiento permiten guardar y recuperar datos. Algunos ejemplos comunes son:
+
+- **Disco Duro Externo**: Almacena grandes cantidades de información.
+- **Memoria USB**: Dispositivo portátil para transferir y almacenar archivos.
+- **Tarjetas SD**: Comúnmente utilizadas en cámaras y dispositivos móviles.
+- **CD/DVD**: Soportes ópticos para almacenar datos.
