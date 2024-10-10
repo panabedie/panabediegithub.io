@@ -2,33 +2,24 @@
 title: Home
 layout: home
 ---
-En esta pagina vamos hablar de los tipos de perifericos que podemos tener:
+# Periféricos de Computadora
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Los periféricos son dispositivos externos que se conectan a una computadora para ampliar sus capacidades. Se clasifican en **periféricos de entrada**, **de salida** y **de almacenamiento**.
 
-More specifically, the created site:
+## Tipos de Periféricos
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+### 1. Periféricos de Entrada
+Los periféricos de entrada permiten al usuario introducir datos o comandos a la computadora. Algunos ejemplos incluyen:
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+- **Teclado**: Permite escribir texto y comandos.
+- **Ratón**: Controla el cursor en la pantalla.
+- **Escáner**: Convierte documentos físicos en archivos digitales.
+- **Micrófono**: Captura audio para aplicaciones de voz y grabación.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+### 2. Periféricos de Salida
+Estos dispositivos muestran o reproducen la información procesada por la computadora. Ejemplos de periféricos de salida son:
 
-To get started with creating a site, simply:
-
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+- **Monitor**: Muestra información visual y gráficos.
+- **Impresora**: Produce copias físicas de documentos digitales.
+- **Altavoces**: Reproducen sonido, música y efectos de audio.
+- **Proyector**: Muestra contenido en una pantalla grande o pared.
