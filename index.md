@@ -1,7 +1,7 @@
 ---
 title: Introduccion
 layout: home
-nav-order: 1
+nav_order: 1
 ---
 # Periféricos de un Ordenador
 
