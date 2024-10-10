@@ -1,10 +1,9 @@
-
 ---
 title: Tipos de Periféricos
 layout: home
 ---
 
-### 1. Periféricos de Entrada
+1. Periféricos de Entrada
 Los periféricos de entrada permiten al usuario introducir datos o comandos a la computadora. Algunos ejemplos incluyen:
 
 - **Teclado**: Permite escribir texto y comandos.
@@ -12,7 +11,7 @@ Los periféricos de entrada permiten al usuario introducir datos o comandos a la
 - **Escáner**: Convierte documentos físicos en archivos digitales.
 - **Micrófono**: Captura audio para aplicaciones de voz y grabación.
 
-### 2. Periféricos de Salida
+2. Periféricos de Salida
 Estos dispositivos muestran o reproducen la información procesada por la computadora. Ejemplos de periféricos de salida son:
 
 - **Monitor**: Muestra información visual y gráficos.
